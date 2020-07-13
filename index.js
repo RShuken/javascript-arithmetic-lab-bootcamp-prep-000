@@ -16,11 +16,11 @@ function divide(x,y) {
 }
 
 function increment(n) {
-  return n++
+  return ++n;
 }
 
 function decrement(n) {
-  return parseInt(n--);
+  return --n;
 }
 /* 
 function makeInt(string) {
