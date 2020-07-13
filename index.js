@@ -22,6 +22,12 @@ function increment(n) {
 function decrement(n) {
   return --n;
 }
+
+function makeInt(n) {
+  return parseInt(n,10);
+}
+
+}
 /* 
 function makeInt(string) {
   return string.parseInt(string,10);
