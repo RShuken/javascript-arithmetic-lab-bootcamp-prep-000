@@ -26,11 +26,12 @@ console.log(number) // 15
 divideBy3()
  
 console.log(number) // 5
-
+/* 
 function makeInt(string) {
   return string.parseInt(string,10);
 }
 
 function preserveDecimal(string) {
   return string.parseFloat(string);
-}
+} 
+*/
