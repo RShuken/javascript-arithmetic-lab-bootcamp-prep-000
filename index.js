@@ -27,17 +27,7 @@ function makeInt(n) {
   return parseInt(n,10);
 }
 
-function subtract(x,y) {
-  
-}
 
-function subtract(x,y) {
-  
-}
-
-function subtract(x,y) {
-  
-}
 /* 
 function makeInt(string) {
   return string.parseInt(string,10);
